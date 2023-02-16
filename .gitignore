@@ -1,0 +1,6 @@
+node_modules
+.vscode/launch.json
+go/go.mod
+go/cmd/p1/main.go
+
+target/
